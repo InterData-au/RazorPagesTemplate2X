@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+    <Metadata>
+        <Identity Id="RazorTemplate.cb15a213-e7e3-4e4d-b657-0ac588574ee5" Version="1.0" Language="en-US" Publisher="Dushmantha Abeysinghe" />
+        <DisplayName>RazorPage web app template</DisplayName>
+        <Description xml:space="preserve">RazorPage web app template</Description>
+        <Icon>Template.ico</Icon>
+        <PreviewImage>PreviewImage.png</PreviewImage>
+        <Tags>asp.net core 2x, template</Tags>
+    </Metadata>
+    <Installation>
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0, 16.0)" />
+    </Installation>
+    <Dependencies>
+        <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
+    </Dependencies>
+    <Assets>
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="File" Path="template.pkgdef" />
+        <Asset Type="RzrTemplate.Dushmantha.Abesinha.1.0.0.nupkg" d:Source="File" Path="RzrTemplate.Dushmantha.Abesinha.1.0.0.nupkg" />
+    </Assets>
+
+    <Prerequisites>
+        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[15.0,16.0)" DisplayName="Visual Studio core editor" />
+        <Prerequisite Id="Microsoft.VisualStudio.Component.Web" Version="[15.8.27825.0,16.0)" DisplayName="ASP.NET and web development tools" />
+    </Prerequisites>
+
+
+</PackageManifest>

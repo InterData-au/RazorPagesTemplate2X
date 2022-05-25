@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+ 
+  <metadata>
+    <id>RzrTemplate.Dushmantha.Abesinha</id>
+    <version>1.0.0</version>
+    <title>ASP.NET Core 2.x Razor Web Templates package</title>
+    <authors>Dushmantha Abesinha</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    
+    <description>New Custom project templates</description>
+    <releaseNotes>This provide additional Razor page templates.</releaseNotes>
+    <copyright>$copyright$ 2018 Dush</copyright>
+    <tags>asp.net-core-2.1 asp.net-core-2.2 Razor</tags>
+  </metadata>
+  
+  <files>
+        <file src="..\RazorPages21\**\*.*" exclude="**\bin\**\*;**\obj\**\*;**\launchSettings.json;**/*.user" target="content\Razor.App21" />
+        <file src="..\RazorPages22\**\*.*" exclude="**\bin\**\*;**\obj\**\*;**\launchSettings.json;**/*.user" target="content\Razor.App22" />
+  </files>
+	
+</package>
