@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="RazorTemplate.cb15a213-e7e3-4e4d-b657-0ac588574ee5" Version="1.0" Language="en-US" Publisher="Dushmantha Abeysinghe" />
-        <DisplayName>RazorPage web app template</DisplayName>
-        <Description xml:space="preserve">RazorPage web app template</Description>
+        <Identity Id="RazorTemplate.cb15a213-e7e3-4e4d-b657-0ac588574ee5" Version="1.0" Language="en-US" Publisher="Dushmantha Abesinha" />
+        <DisplayName>RazorPage Web App Template</DisplayName>
+        <Description xml:space="preserve">ASP.NET Core 2.X RazorPage web app templates</Description>
         <Icon>Template.ico</Icon>
         <PreviewImage>PreviewImage.png</PreviewImage>
         <Tags>asp.net core 2x, template</Tags>

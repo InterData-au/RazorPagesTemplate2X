@@ -6,15 +6,13 @@
     "MVC",
     "Razor Pages"
   ],
-  "name": "ASP.NET Core Web App",
+  "name": "ASP.NET Core 2.2 Razor Pages Web App",
   "generatorVersions": "[1.0.0.0-*)",
   "description": "A project template for creating an ASP.NET Core application with example ASP.NET Razor Pages content",
   "groupIdentity": "InterData.Web.RazorPages",
   "precedence": "4000",
   "identity": "InterData.Web.RazorPages.CSharp.2.2",
-  "shortName": [
-     "rzpweb22", "rzp22webapp"
-  ],
+  "shortName": ["rzpweb22", "rzp22webapp"],
   "thirdPartyNotices": "https://aka.ms/aspnetcore-template-3pn-210",
   "tags": {
     "language": "C#",
@@ -23,8 +21,8 @@
   "sourceName": "RazorPages22",
   "preferNameDirectory": true,
   "guids": [
-    "09732173-2cef-46b7-83db-1334bcb079d3", // Tenant ID
-    "0ce56475-d1db-490f-8af1-a881ea4fcd2d" // Client ID
+    "09732175-2cef-46b7-83db-1334bcb079d3", // Tenant ID
+    "0ce56477-d1db-490f-8af1-a881ea4fcd2d" // Client ID
   ],
   "sources": [
     {

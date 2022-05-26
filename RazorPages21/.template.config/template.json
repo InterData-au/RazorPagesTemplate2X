@@ -21,8 +21,8 @@
   "sourceName": "RazorPages21",
   "preferNameDirectory": true,
   "guids": [
-    "09732173-2cef-46b7-83db-1334bcb079d3", // Tenant ID
-    "0ce56475-d1db-490f-8af1-a881ea4fcd2d" // Client ID
+    "09732171-2cef-46b7-83db-1334bcb079d3", // Tenant ID
+    "0ce56473-d1db-490f-8af1-a881ea4fcd2d" // Client ID
   ],
   "sources": [
     {
