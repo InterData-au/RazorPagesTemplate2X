@@ -1,16 +1,16 @@
 {
   "$schema": "http://json.schemastore.org/vs-2017.3.host",
   "name": {
-    "text": "Razor Pages core 2.2 Web Application",
+    "text": "Razor Pages Web Application",
     "package": "{0CD94836-1526-4E85-87D3-FB5274C5AFC9}",
     "id": "1017"
   },
   "description": {
     "text": "A project template for creating an ASP.NET Core application with example ASP.NET Razor Pages content.",
     "package": "{0CD94836-1526-4E85-87D3-FB5274C5AFC9}",
-    "id": "22018"
+    "id": "1018"
   },
-  "order": 301,
+  "order": 300,
   "icon": "icon.ico",
   "learnMoreLink": "https://go.microsoft.com/fwlink/?LinkID=784881",
   "uiFilters": [ "oneaspnet" ],
