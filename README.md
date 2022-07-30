@@ -1,5 +1,5 @@
-# RazorPagesTemplate2X
-ASP.NET Core 2.x Razor Pages Templates
+# Visual Studio Project Template for ASP.NET Core 2.X Razor Pages
+ASP.NET Core 2.x Razor Pages Project Templates
 
 This solution includes everything we need to create custom ASP.NET Core Razor Pages web application Template. 
 
